@@ -1,6 +1,6 @@
 # Q-Learning-Robot-exploring-unknown-terrain
 
-![image](https://github.com/AlmazErmilov/Q-Learning-Robot-exploring-unknown-terrain/assets/64559090/cb67e5df-d955-4469-9276-9878b64ae02c)
+<img width="819" alt="image" src="https://github.com/AlmazErmilov/Q-Learning-Robot-exploring-unknown-terrain/assets/64559090/1b416258-6e86-4df8-8a89-772441e14efa">
 
 ## Summary
 
